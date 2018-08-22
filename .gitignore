@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+service-account-private-key.json
